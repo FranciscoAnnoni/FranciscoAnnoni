@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/profile.php?id=100003857953606&locale=es_LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francsico annoni" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">tech stack</h2>
+<h2 align="left"><u>Tech Stack:</u></h2>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
