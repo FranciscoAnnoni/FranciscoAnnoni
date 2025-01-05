@@ -102,5 +102,3 @@
   </a>
 </p>
 
-<h2 align="left">GitHub Trophys</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscoannoni" alt="franciscoannoni" /></a> </p>
